@@ -49,7 +49,7 @@ The project also included a **thorough investigation into advanced anti-scraping
 
 ## Project Structure
 
-    ```bash
+   ```bash
          fintech_scraper/
        ├── config.py # Configuration file for target companies and URLs
        ├── main.py # Main script to execute the scraper
