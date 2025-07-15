@@ -50,13 +50,13 @@ The project also included a **thorough investigation into advanced anti-scraping
 ## Project Structure
 
     ```bash
-   fintech_scraper/
-    ├── config.py # Configuration file for target companies and URLs
-    ├── main.py # Main script to execute the scraper
-    ├── scraper.py # Contains all the scraper functions
-    ├── data/
-    │ └── job_listings_YYYY-MM-DD.csv # Example output file
-    └── README.md
+         fintech_scraper/
+       ├── config.py # Configuration file for target companies and URLs
+       ├── main.py # Main script to execute the scraper
+       ├── scraper.py # Contains all the scraper functions
+       ├── data/
+       │ └── job_listings_YYYY-MM-DD.csv # Example output file
+       └── README.md
     ```
 ---
 
