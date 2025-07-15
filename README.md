@@ -57,7 +57,7 @@ The project also included a **thorough investigation into advanced anti-scraping
        ├── data/
        │ └── job_listings_YYYY-MM-DD.csv # Example output file
        └── README.md
-    ```
+   ```
 ---
 
 ## How to Run
